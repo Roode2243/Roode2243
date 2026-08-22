@@ -9,5 +9,6 @@ When curiosity meets caffeine, you’ll probably find me coding, tinkering, or d
 ⚡ Fun fact: I name my bugs like Pokémon. Some of them evolve. Most just faint.
 
 
-![Roode2243's Stats](https://github-readme-stats.vercel.app/api?username=Roode2243&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roode2243&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+systems;Training+Neural+Networks+%26+ML;Exploring+Large+Language+Models;Architecting+Intelligent+Solutions"/>
+</p>
