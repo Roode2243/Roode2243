@@ -1,14 +1,54 @@
-# Hi there 👋 This is Roode2243,  
-When curiosity meets caffeine, you’ll probably find me coding, tinkering, or daydreaming ideas into code.  
+# roode2243
 
-🔭 Currently juggling a bunch of random (but awesome) side-projects  
-🌱 Learning whatever grabs my attention—from scripts to full-blown apps  
-🤝 Open to collabs on anything cool, quirky, or challenging  
-💬 Talk to me about manga, tech, or weird internet rabbit holes  
-📫 Ping me if you’ve got an idea worth building—or just wanna say hi  
-⚡ Fun fact: I name my bugs like Pokémon. Some of them evolve. Most just faint.
+> Memorable developer positioning.
 
+## Header
+
+Hi, I'm **roode2243**. This README shares what I'm building, the tools I use, and the work I'm proud of.
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Agentic+AI+systems;Training+Neural+Networks+%26+ML;Exploring+Large+Language+Models;Architecting+Intelligent+Solutions"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=roode2243&theme=github-dark" alt="roode2243 hero section" />
+  </picture>
+</p>
+## About Me
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=roode2243&theme=github-dark" alt="roode2243 about section" />
+  </picture>
+</p>
+## Skills
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=roode2243&theme=github-dark" alt="roode2243 stack section" />
+  </picture>
+</p>
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=roode2243&theme=github-dark" alt="roode2243 stats section" />
+  </picture>
+</p>
+## Projects
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=roode2243&theme=github-dark" alt="roode2243 projects section" />
+  </picture>
+</p>
+## Connect
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=roode2243&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=roode2243&theme=github-dark" alt="roode2243 social section" />
+  </picture>
 </p>
